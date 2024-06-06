@@ -1,0 +1,1 @@
+This a Data Analysis of job postings of Data Science on Glassdoor. First step was to clean and transform the raw dataset. After cleaning and transforming the dataset, we have analyzed the data using python about every aspect of the job postings.
